@@ -3,3 +3,4 @@ source https://dotnet.myget.org/F/orleans-prerelease/api/v3/index.json
 
 nuget Microsoft.Orleans.Core >= 2.0.0-preview2-201703021703
 nuget Microsoft.Orleans.OrleansCodeGenerator >= 2.0.0-preview2-201703021703	
+nuget Microsoft.Orleans.OrleansRuntime >= 2.0.0-preview2-201703021703	

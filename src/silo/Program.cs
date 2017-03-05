@@ -2,7 +2,7 @@
 using Interfaces;
 using Grains;
 
-namespace ConsoleApplication
+namespace OrleansSiloHost
 {
     public class Program
     {
