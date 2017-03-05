@@ -17,7 +17,9 @@
         },
         "interfaces": {
           "target": "project"
-        }
+        },
+        "Microsoft.Orleans.Core": "2.0.0-preview2-201703021703",
+        "Microsoft.Orleans.OrleansRuntime": "2.0.0-preview2-201703021703"
       },
       "imports": "dnxcore50"
     }

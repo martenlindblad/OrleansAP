@@ -5,7 +5,7 @@ using Orleans.Runtime;
 using Orleans.Runtime.Configuration;
 using Orleans.Runtime.Host;
 
-namespace SiloHost
+namespace OrleansAP.Silo
 {
     class OrleansHostWrapper
     {
