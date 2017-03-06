@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace GrainInterface
+namespace OrleansAP.Interfaces
 {
     public class Class1
     {

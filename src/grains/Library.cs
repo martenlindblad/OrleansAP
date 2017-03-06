@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Grains
+namespace OrleansAP.Grains
 {
     public class Class1
     {
